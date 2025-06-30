@@ -30,7 +30,7 @@ SVM, KNN, MLP e Random Forest
 -Matriz de confusão: `resultados/matriz_interface.png`
 -Relatório de classificação: `resultados/relatorio_interface.png`
 
-# Instruções e strutura de pastas do projeto:
+# Instruções e estrutura de pastas do projeto:
 Projeto_Final_Processamento_Imagens/
 - ├── datasets/
 - ├── modulos/
