@@ -31,7 +31,7 @@ SVM, KNN, MLP e Random Forest
 -Relatório de classificação: `resultados/relatorio_interface.png`
 
 # Instruções e estrutura de pastas do projeto:
-Projeto_Final_Processamento_Imagens/
+- Projeto_Final_Processamento_Imagens/
 - ├── datasets/
 - ├── modulos/
 - │ ├── classificadores/
