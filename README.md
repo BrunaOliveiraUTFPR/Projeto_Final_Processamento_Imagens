@@ -1,10 +1,8 @@
-# Projeto_Final_Processamento_Imagens
+Projeto_Final_Processamento_Imagens
 
-# Título do projeto:
-  **Classificação de Flores**
+# Classificação de Flores
 
-# Aluna: 
-Bruna de Paula Oliveira - RA: 2312778
+Aluna: Bruna de Paula Oliveira - RA: 2312778
 
 # Descrição do(s) descritor(es) implementados:
 - HOG: extrai gradientes e bordas
